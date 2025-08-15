@@ -1,0 +1,13 @@
+{
+    "fft_initial_view": {
+        "variable_group": "all",
+        "show_fit_line": true
+    },
+    "realtime_processing": {
+        "video_source": "0",
+        "yolo_model_path": "yolov8n.pt",
+        "mediapipe_model_path": "face_landmarker.task",
+        "device": "cpu",
+        "show_preview": true
+    }
+}
