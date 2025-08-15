@@ -1,0 +1,13 @@
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+
+# 仮想環境フォルダ
+venv/
+.venv/
+
+# エディタの設定ファイル (VSCodeなど)
+.vscode/
+
+# ログファイル
+*.log
