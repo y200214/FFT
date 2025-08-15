@@ -1,0 +1,10 @@
+# 1. 全ての変更を記録の対象にする
+git add .
+
+# 2. 変更内容のメモを付けて記録する
+git commit -m "〇〇機能の修正"
+
+# 3. GitHubにアップロードする
+git push
+
+git pull

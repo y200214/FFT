@@ -7,6 +7,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import numpy as np
 from core.constants import ALL_VARIABLES, EMOTION_VARS, BEHAVIOR_VARS
 import os
+import matplotlib.ticker as mticker
 
 class SpectrumView(ttk.Frame):
     def __init__(self, parent, controller):
@@ -133,6 +134,10 @@ class SpectrumView(ttk.Frame):
         ax.set_xlabel("Frequency (log)")
         ax.set_ylabel("Amplitude (log)")
 
+        formatter = mticker.ScalarFormatter()
+        formatter.set_scientific(False)
+        ax.xaxis.set_major_formatter(formatter)
+        ax.yaxis.set_major_formatter(formatter)
     def update_plot(self, power_spectrums=None):
         if power_spectrums is None:
             power_spectrums = self.controller.model.last_power_spectrums
@@ -223,7 +228,6 @@ class SpectrumView(ttk.Frame):
 
                     temp_fig, temp_ax = plt.subplots(figsize=(8, 6))
                     temp_ax.loglog(freq, amp, label=f"{id_name}_{param_name}")
-
                     if slope is not None and intercept is not None:
                         log_freq = np.log10(freq)
                         fit_line = 10**(slope * log_freq + intercept)
@@ -237,13 +241,15 @@ class SpectrumView(ttk.Frame):
                     temp_ax.set_ylabel("Amplitude (log)")
                     temp_ax.grid(True, which="both", ls="--")
                     temp_ax.legend()
-
+                    
+                    # エラー回避のため、こちらでもフォーマッタを適用
+                    formatter = mticker.ScalarFormatter()
+                    formatter.set_scientific(False)
+                    temp_ax.xaxis.set_major_formatter(formatter)
+                    temp_ax.yaxis.set_major_formatter(formatter)
+                    
                     file_path = os.path.join(id_folder, f"スペクトル_{id_name}_{param_name}.png")
-
                     temp_fig.suptitle(f"Saved at: {timestamp:.1f} sec", fontsize=10, y=0.02, ha='right')
-
                     temp_fig.savefig(file_path, dpi=150)
                     plt.close(temp_fig)
-
-                if progress_callback:
-                    progress_callback()
+                if progress_callback: progress_callback()

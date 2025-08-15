@@ -1,4 +1,4 @@
-# ファイル名: data_processor.py (新規作成)
+# ファイル名: core/data_processor.py (修正後)
 
 import pandas as pd
 import numpy as np
@@ -69,3 +69,8 @@ class DataProcessor:
             records.append(record)
         
         return pd.DataFrame(records).set_index('timestamp')
+
+
+
+
+

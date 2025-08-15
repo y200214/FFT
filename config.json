@@ -1,6 +1,6 @@
 {
     "fft_initial_view": {
-        "variable_group": "all",
+        "variable_group": "emotion",
         "show_fit_line": true
     },
     "realtime_processing": {
