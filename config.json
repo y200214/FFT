@@ -1,0 +1,16 @@
+{
+    "fft_initial_view": {
+        "variable_group": "emotion",
+        "show_fit_line": true
+    },
+    "realtime_settings": {
+        "video_source": "0",
+        "yolo_model_path": "models/yolov8n.pt",
+        "mediapipe_model_path": "models/face_landmarker.task",
+        "device": "cpu"
+    },
+    "analysis_parameters": {
+        "UPDATE_INTERVAL_MS": 100,
+        "SLIDING_WINDOW_SECONDS": 30
+    }
+}

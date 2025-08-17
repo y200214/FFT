@@ -1,0 +1,178 @@
+2025-08-16 12:45:23,804 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:08:24,397 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:24:03,072 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:25:53,410 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:30:31,729 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:36:54,196 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:39:41,947 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:45:33,526 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:45:38,788 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 13:45:41,802 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 13:45:41,802 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 13:45:41,812 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 13:45:44,824 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 13:45:44,824 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 13:52:24,336 - root - INFO - ロギング設定が完了しました。
+2025-08-16 13:52:31,464 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 13:52:34,474 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 13:52:34,474 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 14:02:28,568 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:12:23,168 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:19:18,796 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:25:06,401 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:30:23,253 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:32:37,950 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:37:05,225 - root - INFO - ロギング設定が完了しました。
+2025-08-16 14:52:40,452 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:09:06,482 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:21:54,630 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:53:18,970 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:55:21,973 - root - INFO - ロギング設定が完了しました。
+2025-08-16 15:58:11,700 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 15:58:14,707 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 15:58:14,707 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 16:16:54,685 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:17:59,329 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:19:03,237 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:21:23,599 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:23:08,533 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:24:40,117 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:26:01,818 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:26:35,211 - root - INFO - ロギング設定が完了しました。
+2025-08-16 16:29:28,965 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 16:29:31,968 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 16:29:31,968 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:02:01,404 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:07:06,983 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:26:24,981 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:27:47,022 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:27:50,037 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:27:50,038 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:29:00,877 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:29:04,325 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:29:07,333 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:29:07,333 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:34:22,542 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:34:24,870 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:34:25,625 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:36:07,880 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:36:08,396 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:36:51,171 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:36:52,041 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:37:04,030 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:37:07,037 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:37:07,037 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:37:45,725 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:37:51,649 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:37:52,962 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:38:03,492 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:38:04,779 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:38:14,404 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:38:15,698 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:38:57,552 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:38:58,823 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:42:55,464 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:42:57,978 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:42:59,287 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:43:06,955 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:43:08,196 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:43:27,377 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:43:28,626 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:44:05,775 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:44:08,781 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:44:08,782 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:47:20,431 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:47:30,053 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:47:30,923 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:47:42,601 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:47:43,419 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:47:50,730 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:47:51,542 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:48:10,155 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:48:10,947 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:48:20,003 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:48:20,784 - utils.camera_utils - INFO - 利用可能なカメラ: ['0']
+2025-08-16 17:48:32,992 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:48:36,004 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:48:36,004 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:50:09,338 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:50:10,575 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:54:02,822 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:54:21,733 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:54:28,765 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:54:47,030 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:54:53,542 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:55:04,343 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:55:07,356 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:55:07,356 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 17:57:34,823 - root - INFO - ロギング設定が完了しました。
+2025-08-16 17:57:41,096 - utils.camera_utils - INFO - 最大10台のカメラをスキャンします...
+2025-08-16 17:57:48,021 - utils.camera_utils - INFO - 利用可能なカメラ: ['0', '1']
+2025-08-16 17:57:58,643 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 17:58:01,656 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 17:58:01,656 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:05:04,373 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:05:06,654 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:07:02,011 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:07:17,682 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:07:29,367 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:07:32,369 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:07:32,370 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:08:17,168 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:08:25,135 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:10:10,124 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:10:13,326 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:10:20,603 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:10:23,611 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:10:23,612 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:10:50,929 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'OBS Virtual Camera'}
+2025-08-16 18:11:00,797 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:15:07,526 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:15:10,798 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:15:25,098 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:15:28,106 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:15:28,106 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:16:03,937 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:16:14,676 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:16:17,693 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:16:17,694 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:17:26,086 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:17:32,218 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:17:35,231 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:17:35,232 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:22:54,689 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:22:57,102 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:23:05,378 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:23:08,385 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:23:08,385 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:38:40,316 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:38:42,899 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:38:50,354 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:38:53,357 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:38:53,357 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:43:50,256 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:43:53,194 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:44:07,331 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:44:10,347 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:44:10,347 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:44:53,013 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:44:56,017 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:44:56,018 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:47:13,065 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:53:28,601 - root - INFO - ロギング設定が完了しました。
+2025-08-16 18:53:32,243 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-16 18:53:33,503 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'Pixel 7a (Windows 仮想カメラ)', 1: 'HD USB Camera', 2: 'OBS Virtual Camera'}
+2025-08-16 18:53:37,692 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-16 18:53:37,693 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-16 18:53:37,698 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:09:35,835 - root - INFO - ロギング設定が完了しました。
+2025-08-17 18:09:40,724 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:09:49,790 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'HD USB Camera', 1: 'Pixel 7a (Windows 仮想カメラ)', 2: 'OBS Virtual Camera'}
+2025-08-17 18:09:53,709 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-17 18:09:53,714 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:09:57,250 - services.capture_service - WARNING - CaptureServiceが時間内に終了せず、強制終了します。
+2025-08-17 18:09:57,250 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-17 18:09:57,256 - services.capture_service - INFO - CaptureServiceを開始しました。
+2025-08-17 18:10:04,883 - utils.camera_utils - INFO - 利用可能なカメラ: {0: 'HD USB Camera', 1: 'Pixel 7a (Windows 仮想カメラ)', 2: 'OBS Virtual Camera'}
+2025-08-17 18:10:09,919 - services.capture_service - INFO - CaptureServiceを停止しました。
+2025-08-17 18:10:09,922 - services.capture_service - INFO - CaptureServiceを開始しました。
